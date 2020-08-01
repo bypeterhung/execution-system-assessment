@@ -1,0 +1,18 @@
+.link {
+   text-align: center;
+   display: inline-block;
+   color: #1e1e1e;
+   background: rgba(255, 255, 255, 0.25);
+   border-radius: 0;
+   padding: 3px 10px;
+   margin: 8px 0 8px 1px;
+   min-width: 150px;
+}
+.link:hover {
+   text-decoration: none;
+   color: #d8d8d8;
+   background: rgba(255, 255, 255, 0.35);
+}
+.link.active {
+   color: #d8d8d8;
+}

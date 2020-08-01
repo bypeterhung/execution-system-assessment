@@ -1,0 +1,8 @@
+.execution-mode button{
+    border: 1px solid #dee2e6;
+    width: 88px;
+}
+
+.execution-mode button:disabled{
+     background:#dee2e6;
+ }

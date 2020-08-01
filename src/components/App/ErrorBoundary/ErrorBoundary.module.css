@@ -1,0 +1,8 @@
+.error-content{
+    padding: 25px;
+}
+
+.error-content button{
+    padding: 0px;
+    vertical-align: baseline;
+}

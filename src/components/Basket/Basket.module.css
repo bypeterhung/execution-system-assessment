@@ -1,0 +1,7 @@
+.basket{
+    text-align: right;
+}
+.basket > button{
+    width: 25%;
+    margin: 20px 15px 20px 0;
+}
